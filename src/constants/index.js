@@ -1,0 +1,1 @@
+export const DATALIST = 'data_list';
