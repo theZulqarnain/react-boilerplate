@@ -6,7 +6,7 @@ const Main = (props) =>{
 
     return (
         <div className="Editor">
-            <h1>This is header of Apollo</h1>
+            <h1>This is header </h1>
         </div>
     )
 }
