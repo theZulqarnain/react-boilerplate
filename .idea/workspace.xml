@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3234108-0417-4819-9db3-0b72a0a1d1f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main.js" afterDir="false" />
     </list>
@@ -46,6 +41,8 @@
       <option name="presentableId" value="Default" />
       <updated>1584669623851</updated>
       <workItem from="1584669624981" duration="1285000" />
+      <workItem from="1590052791272" duration="2897000" />
+      <workItem from="1591093649815" duration="28000" />
     </task>
     <servers />
   </component>
